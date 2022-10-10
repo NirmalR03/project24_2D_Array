@@ -1,4 +1,4 @@
-const row = prompt("Enter Rows"), column =prompt("Enter Column");
+const row = prompt("Enter no of Rows"), column =prompt("Enter no of  Column");
 var arr = [];
 for (var i=0;i<row;i++) {
 	arr[i] = [];
